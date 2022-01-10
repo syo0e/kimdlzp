@@ -10,7 +10,8 @@
 
 ## 👩🏻‍💻 About me
 - contact : kimdlzp@gmail.com
-- develog : https://velog.io/@kimdlzp
+- Blog : https://velog.io/@kimdlzp
+- Instagram : https://www.instagram.com/syo0e
 
   
 ## 🛠 Tech Stack 🛠 
