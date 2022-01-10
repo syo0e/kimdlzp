@@ -31,6 +31,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 [![kimdlzp's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdlzp&theme=dracula)](https://github.com/kimdlzp/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimdlzp)](https://solved.ac/kimdlzp/)
   
 
 <div align="right">
