@@ -7,10 +7,6 @@
   
 </div>
 
-## 👩🏻‍💻 About me
-- contact : kimdlzp@gmail.com
-- Blog : https://velog.io/@kimdlzp
-- Instagram : https://www.instagram.com/syo0e
 
   
 ## 🛠 Tech Stack 🛠 
